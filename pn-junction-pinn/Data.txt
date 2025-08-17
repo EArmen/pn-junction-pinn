@@ -1,0 +1,9 @@
+Resource & URL & Parameters 
+
+Stanford-2005 - https://poplab.stanford.edu/pdfs/EricPop-MEngthesis.pdf - Doping profiles 
+Tektronix-2018 - https://download.tek.com/document/4200\%20CV\%20ApplicationsGuide.pdf - C-V curves 
+NIST-2015 - https://nvlpubs.nist.gov/nistpubs/jres/099/jresv99n6p573.pdf -  Uncertainties 
+GeorgiaTech-2020 - https://alan.ece.gatech.edu/ECE4813/Lectures/Lecture3DopingProfiling.pdf - Parameters 
+arXiv-2022  https://arxiv.org/pdf/2209.09633 - High-injection 
+arXiv-2007  https://arxiv.org/pdf/0707.1207 - Cryogenic 
+NASA-1973 https://ntrs.nasa.gov/api/citations/19730001990/downloads/19730001990.pdf - Radiation 
